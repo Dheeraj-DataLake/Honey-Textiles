@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "type": "Cotton",
+        "category": "",
+        "titile": "Fine Cloth",
+        "description": "",
+        "desc": "",
+        "imageUrl": "assets/images/product-1.jpg"
+    },
+    {
+        "id": 2,
+        "type": "Cotton",
+        "category": "",
+        "titile": "Fine Cloth",
+        "description": "",
+        "desc": "",
+        "imageUrl": "assets/images/product-2.jpg"
+    }
+]
